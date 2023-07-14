@@ -57,6 +57,7 @@ a:hover {
 }
 
 .logo {
+  background-position: center;
   display: flex;
   align-items: left;
 }
